@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Firebase Task</string>
+    <string name="welcome">Welcome!</string>
+    <string name="find_the_things_that_you_love">Find the things that you Love!</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="signup_with_google">SignUp With Google</string>
+    <string name="or_signup_with_google">or signup with google</string>
+    <string name="default_web_client_id">330633401794-tfsh9tf535tngc2tj2acbi3ifkroqb2f.apps.googleusercontent.com</string>
+    <string name="enter_your_title">Enter Your Title</string>
+    <string name="title">Title</string>
+    <string name="enter_your_description">Enter Your Description</string>
+    <string name="description">Description</string>
+    <string name="all_notes">All Notes</string>
+    <string name="home" />
+    <string name="Note" />
+    <string name="Add">\n</string>
+    <string name="Chat" />
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nike_jorden">Nike Jorden</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="_575_54">$575.54</string>
+    <string name="colour_black">Colour: Black</string>
+    <string name="login">Login</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="and_our_privacy_polices">and our privacy polices</string>
+    <string name="terms_amp_condition"><![CDATA[terms & condition]]></string>
+    <string name="by_continuing_you_are_agreeing_our">By continuing you are agreeing our</string>
+    <string name="signup">SignUp</string>
+    <string name="mobile_no">Mobile no.</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="enter_your_personal_data">Enter Your Personal Data</string>
+    <string name="create_account">Create Account</string>
+    <string name="_6">6</string>
+    <string name="_10">10</string>
+    <string name="puma">PUMA</string>
+    <string name="view_all">View All</string>
+    <string name="chat">Chat</string>
+
+</resources>
